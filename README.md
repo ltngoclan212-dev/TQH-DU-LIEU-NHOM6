@@ -1,1 +1,8 @@
-# TQH-DU-LIEU-NHOM6
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+openpyxl
+kaleido
